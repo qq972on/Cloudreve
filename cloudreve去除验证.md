@@ -1,5 +1,3 @@
-<iframe height="1" width="1" style="top: 0px; l
-
 #### 破解 Cloudreve V3 Pro，解锁所有功能，附带教程和源码下载 
 
 ## 1. 原因
@@ -110,5 +108,3 @@ const baseConfig = {
 
 
 参考资料：[https://hostloc.com/thread-1276280-1-1.html](https://bbs.yiove.com/gowild.htm?url=https_3A_2F_2Fhostloc_2ecom_2Fthread_2d1276280_2d1_2d1_2ehtml)
-
-eft: 0px; border: medium; visibility: hidden;"></iframe>
